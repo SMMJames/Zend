@@ -7,3 +7,5 @@ bin-release/
 .flexProperties
 .settings/
 .project
+
+$ git clone git@git01.phpfog.com:foo.phpfogapp.com
